@@ -1,6 +1,6 @@
 # Andrius Steponavičius
 
-## Experience
+## Professional Experience
 
 ### Staff Software Engineer
 **KAYAK** _(2026 - present)_
