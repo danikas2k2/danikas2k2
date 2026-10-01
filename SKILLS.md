@@ -1,6 +1,6 @@
 # Andrius Steponavičius
 
-## Skills
+## Technical Skills
 
 #### Programming Languages
 - TypeScript / JavaScript
