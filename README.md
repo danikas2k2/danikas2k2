@@ -1,5 +1,14 @@
 # Andrius Steponavičius
 
+- Staff Software Engineer
+- React / TypeScript / Node.js
+- Web & Frontend Architecture
+- Modernization / Performance
+- Hands-on IC
+- open to Senior / Staff / Architect
+
+---
+
 Staff Software Engineer with 25+ years of professional software development experience, specializing in web and frontend architecture, complex systems, software modernization, performance, and technical problem solving.
 
 I have worked across several generations of web technologies — from server-rendered applications and early JavaScript/PHP systems to modern React and TypeScript architectures. While frontend engineering is my primary specialization today, my background spans the full web stack, including backend development, API design, databases, search and indexing, CI/CD, containers, testing, and production debugging.
