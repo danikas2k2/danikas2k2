@@ -1,5 +1,4 @@
 # Andrius Steponavičius
-**Staff Software Engineer**
 
 ## Skills
 
