@@ -23,8 +23,8 @@ I also use AI tools extensively across implementation, refactoring, testing, doc
 
 ### More about me
 
-- [Technical Skills](./SKILLS.md)
-- [Professional Experience](./EXPERIENCE.md)
+- [Skills](./SKILLS.md)
+- [Experience](./EXPERIENCE.md)
 - [Education](./EDUCATION.md)
 
 ---
