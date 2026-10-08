@@ -1,41 +1,31 @@
 # Andrius Steponavičius
+**Staff Software Engineer**
 
-- Staff Software Engineer
-- React / TypeScript / Node.js
-- Web & Frontend Architecture
-- Modernization / Performance
-- Hands-on IC
-- Open to Senior / Staff / Architect
+-	Software Architecture
+-	Full-Stack Engineering
+-	Frontend Architecture
 
----
-
-I have 25+ years of professional software development experience, with a strong focus on web and frontend architecture, complex systems, software modernization, performance, and technical problem solving.
-
-I have worked across several generations of web technologies — from server-rendered applications and early JavaScript/PHP systems to modern React and TypeScript architectures. While frontend engineering is my primary specialization today, my background spans the full web stack, including backend development, API design, databases, search and indexing, CI/CD, containers, testing, and production debugging.
-
-Over the years, I have worked with a wide range of programming languages. My strongest current languages are JavaScript and TypeScript, with practical experience in Java and Python, deep earlier experience in PHP, and additional experience with Perl, C, C++ and C#. My earlier programming background also included Pascal, BASIC, Z80/x86 Assembly, Smalltalk and Lisp, which gave me a strong foundation in algorithms, data structures, performance and low-level problem solving.
-
-I enjoy solving difficult technical problems, especially when the root cause or the right solution is not immediately obvious. I care deeply about readable and maintainable code, pragmatic architecture, incremental modernization, and solutions that remain understandable years after they are introduced.
-
-Throughout my career, I have helped introduce new technologies and engineering approaches, designed reusable frameworks and shared solutions, contributed to large-scale frontend modernization, established engineering patterns and standards, mentored engineers, and supported technical decisions across multiple teams.
-
-I remain a hands-on engineer. I enjoy architecture and technical leadership, but I also want to stay close to the code — prototyping solutions, investigating difficult problems, refactoring complex systems, improving performance, and turning architectural ideas into working software.
-
-Core areas: JavaScript / TypeScript • React • Node.js • Next.js • Web & Frontend Architecture • Software Modernization • Performance • REST APIs • MongoDB / SQL • Testing • CI/CD • Docker
-
-Currently open to Senior / Staff Software Engineer and hands-on Software Architect opportunities. I am primarily interested in fully remote positions or flexible hybrid roles with an outcome-oriented, flexible working schedule.
 
 ---
 
-Lithuanian • English • Russian
+Staff Software Engineer with 25+ years of professional experience building and evolving web products and platforms across the full stack.
+
+These days I focus mostly on architecture, technical direction, modernization, and harder engineering problems. I help shape technical approaches and standards, review architecture and code, and mentor engineers. I also lead major refactoring and technology transitions while staying hands-on with the code.
+
+My strongest area is web and frontend architecture, especially React and TypeScript. My broader full-stack experience includes Node.js, PHP, Java, APIs, SQL and NoSQL databases, integrations, caching, scalability, CI/CD, and production systems.
+Over the years, I’ve worked on both greenfield products and large existing systems. I’ve built platforms from scratch, untangled weak architectures, led major migrations, introduced new technologies, and created shared foundations for other engineers to build on.
+
+I’m strongest when a system needs to evolve — become simpler, more flexible, easier to maintain, or ready for the next stage of growth.
+
+I also use AI tools extensively across implementation, refactoring, testing, documentation, and code review, while keeping engineering decisions and output under review.
 
 ---
 
 ### More about me
 
+- [Technical Skills](./SKILLS.md)
 - [Professional Experience](./EXPERIENCE.md)
 - [Education](./EDUCATION.md)
-- [Technical Skills](./SKILLS.md)
 
 ---
 
