@@ -1,6 +1,9 @@
 # Andrius Steponavičius
 
-## Staff Software Engineer
+## Experience
+
+### Staff Software Engineer
+
 **KAYAK**
 _(2026)_
 - Drove the gradual migration of shared legacy functionality into the modern React codebase.
@@ -8,7 +11,7 @@ _(2026)_
 -	Worked on new product functionality and integrations alongside modernization work.
 -	Continued hands-on work across code review, technical documentation, and frontend architecture.
 
-## Software Architect
+### Software Architect
 
 **KAYAK**
 _(2021 - 2026)_
@@ -16,7 +19,7 @@ _(2021 - 2026)_
 -	Defined technical approaches for larger changes, reviewed shared abstractions and code structure, and wrote technical proposals.
 -	Continued regular code review, mentoring, and helping establish consistent engineering practices across the team.
 
-## Senior Software Engineer
+### Senior Software Engineer
 
 **KAYAK**
 _(2018 - 2021)_
@@ -30,7 +33,7 @@ _(2009 - 2018)_
 -	Worked with PHP, MySQL, Dojo, Java, VTL, and jQuery, gradually taking on broader refactoring and modernization work.
 -	Participated in major product integrations and technology migrations, including the transition from PHP to Java.
 
-## Software Engineer
+### Software Engineer
 
 **B-NET Solutions**
 _(2005 - 2009)_
@@ -44,7 +47,8 @@ _(2003 - 2005)_
 -	Developed across PHP, MySQL, JavaScript, HTML, and CSS.
 -	Gradually improved and optimized the existing codebase.
 
-## Web Developer
+### Web Developer
+
 **The Penki Kontinentai Group**
 _(2001 - 2003)_
 -	Took over an existing web analytics platform and substantially redesigned and rebuilt it.
